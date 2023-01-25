@@ -1,4 +1,4 @@
-//CS50 Plurality Solution
+// CS50 Plurality Solution
 // My solution for the first half of the week 3 problem set
 
 #include <cs50.h>
