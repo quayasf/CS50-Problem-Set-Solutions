@@ -1,5 +1,6 @@
-# CS50-Recover-Solution
-My solution for week 4's problem set
+// CS50-Recover-Solution
+//My solution for week 4's problem set
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
